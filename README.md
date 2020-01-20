@@ -2,10 +2,10 @@
 # Playpod SDK for  C/C++ 
 This open-source library allows you to integrate Playpod into your c/c++ app.
 
-Learn more about  the provided samples, documentation, integrating the SDK into your app, accessing source code, and more at [Wiki pages](https://github.com/play-pod-ir/c/c++SDK/wiki).
+Learn more about  the provided samples, documentation, integrating the SDK into your app, accessing source code, and more at [Wiki pages](https://github.com/play-pod-ir/CSDK/wiki).
 
 ## TRY IT OUT
-Check-out the tutorials available online at [getting started](https://github.com/play-pod-ir/c/c++SDK/wiki/Getting-Started)
+Check-out the tutorials available online at [getting started](https://github.com/play-pod-ir/CSDK/wiki/Getting-Started)
 
 ## SERVICES
 Playpod services are grouped into the following categories:
@@ -16,10 +16,10 @@ Playpod services are grouped into the following categories:
   * League Services
   * User Services
   
-Documentations on how to use each service including sample codes can be found in [Wiki pages](https://github.com/play-pod-ir/c/c++SDK/wiki) for each individual service.
+Documentations on how to use each service including sample codes can be found in [Wiki pages](https://github.com/play-pod-ir/CSDK/wiki) for each individual service.
 
 ## GIVE FEEDBACK
-Please report bugs or issues to [Issues tab](https://github.com/play-pod-ir/c/c++SDK/issues).
+Please report bugs or issues to [Issues tab](https://github.com/play-pod-ir/K/issues).
 
 ## CONTRIBUTING
 We are able to accept contributions to the Playpod SDK for c/c++. To contribute please do the following.

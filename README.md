@@ -2,7 +2,7 @@
 # Playpod SDK for  C/C++ 
 This open-source library allows you to integrate Playpod into your c/c++ app.
 
-Learn more about  the provided samples, documentation, integrating the SDK into your app, accessing source code, and more at [Wiki pages](https://github.com/play-pod-ir/c/CSDK/wiki).
+Learn more about  the provided samples, documentation, integrating the SDK into your app, accessing source code, and more at [Wiki pages](https://github.com/play-pod-ir/CSDK/wiki).
 
 
 ## SERVICES

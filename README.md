@@ -23,7 +23,7 @@ Please report bugs or issues to [Issues tab](https://github.com/play-pod-ir/K/is
 
 ## CONTRIBUTING
 We are able to accept contributions to the Playpod SDK for c/c++. To contribute please do the following.
-  * Follow the instructions in the [CONTRIBUTING.md](https://github.com/play-pod-ir/c/c++SDKSDK/blob/dev/CONTRIBUTING.md)
+  * Follow the instructions in the [CONTRIBUTING.md](https://github.com/play-pod-ir/CSDK/blob/dev/CONTRIBUTING.md)
   * Submit your pull request to the [dev](https://github.com/play-pod-ir/UnitySDK/tree/dev) branch. This allows us to merge your change into our internal master and then push out the change in the next release.
 
 ## LICENSE

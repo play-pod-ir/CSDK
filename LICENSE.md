@@ -1,4 +1,4 @@
-#License of Playpod Unity SDK
+# License of Playpod Unity SDK
 
 Copyright (c) 2014-present, Playpod, Inc. All rights reserved.
 
